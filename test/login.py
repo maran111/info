@@ -1,2 +1,2 @@
-username=maran123
+num1=10 
 
